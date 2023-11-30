@@ -1,6 +1,7 @@
 //console.log(window.document);
 //reupération de l'élément input par son id firstcolor
 const firstcolorElt = document.getElementById('firstcolor');
+
 //console.log(firstcolorElt);
 //reupération de l'élément input par son id secondcolor
 const secondcolorElt = document.getElementById('secendcolor');
